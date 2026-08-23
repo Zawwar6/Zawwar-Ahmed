@@ -26,7 +26,7 @@ export default function App() {
 
   return (
     <>
-      <Preloader />
+      {/* <Preloader /> */}
       <CustomCursor />
       <div className="grain-overlay" />
       <Navbar />
