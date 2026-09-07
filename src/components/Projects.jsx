@@ -52,6 +52,7 @@ function ProjectCard({ project, index }) {
               href={project.demo}
               data-cursor="hover"
               className="text-xs font-secondary text-mist-400 hover:text-white transition-colors border-b border-transparent hover:border-white"
+              target='_blank'
             >
               Live
             </a>

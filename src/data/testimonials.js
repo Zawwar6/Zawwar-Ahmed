@@ -11,6 +11,12 @@ export const TESTIMONIALS = [
     quote:
       'I had a great experience working with you. You were friendly through out the project, has sound knowledge of work, and always willing to help. You built my website exactly the way I want. Good thing is that you did not get frustrated even after multiple revisions. Highly recommended from my end',
   },
+  {
+    name: 'Stagbar',
+    role: 'Founder, Stagbar',
+    quote:
+      'Zawwar, I like the punctuality and dedication to work that you made the website on time and you arere also very cooperative. Website look amazing according to my requirements, its been great to work with you. Thank you!',
+  },
  
 ]
 

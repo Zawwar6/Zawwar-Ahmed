@@ -3,7 +3,7 @@ export const PROJECT_CATEGORIES = ['All', 'Web App', 'E-commerce', 'Business', '
 export const PROJECTS = [
   {
     id: 'luxury-vape',
-    title: 'Luxury Vape Co.',
+    title: 'Stagbar',
     category: 'Web App',
     year: '2026',
     description:
@@ -14,7 +14,7 @@ export const PROJECTS = [
       'Micro-interactions on hover for every product tile',
     ],
     tech: ['React Js', 'Tailwind CSS', 'GSAP'],
-    demo: 'https://vape-beryl-seven.vercel.app/',
+    demo: 'https://buystagbar.com/',
     github: 'https://github.com/Zawwar6/vape',
   },
   {
