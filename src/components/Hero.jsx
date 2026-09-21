@@ -124,7 +124,7 @@ export default function Hero() {
             className="mt-10 flex flex-wrap gap-4"
           >
             <MagneticButton href="https://github.com/Zawwar6">View Projects</MagneticButton>
-            <MagneticButton href="https://drive.google.com/file/d/14CjsJ3B9RdRJCHMp4vqhlNPl0M5w_wjA/view?usp=drive_link" variant="outline">
+            <MagneticButton href="https://drive.google.com/file/d/10NlG8i4eYeDGQyk3t55WCnGH9OLrFlNy/view?usp=sharing" variant="outline">
               Download Resume
             </MagneticButton>
             <MagneticButton href="#contact" variant="outline">
